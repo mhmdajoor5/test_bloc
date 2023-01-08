@@ -8,6 +8,9 @@ class AppRouter {
     switch (settings.name) {
       case charactersScreen:
         return MaterialPageRoute(builder: (_) => const CharactersScreen());
+      case charactersDetailsScreen:
+        return MaterialPageRoute(
+            builder: (_) => const CharactersDetailsScreen());
     }
     return null;
   }
