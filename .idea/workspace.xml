@@ -5,15 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="407a0ef8-35dc-499c-bc30-3ed7979c42df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/constants/string.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/string.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/repository/character_repository.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1673814926" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="create-webServices-page" />
+                    <option name="lastUsedInstant" value="1673814925" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
